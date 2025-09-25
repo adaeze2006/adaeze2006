@@ -7,7 +7,7 @@ I am currently a student with a keen interest in technology and innovation.
 - Proficient in **HTML/CSS** and have some experience with **Python**.
 - Completed the **Oracle AI Foundation Certificate**.
 - Enrolled in courses on **OCI Foundations** and **Associate**.
-- [CourseCompletionCertificate.pdf](https://github.com/user-Web design and development: CSS, HTML (proficient)
+- CSS, HTML (proficient)
 -IT Support: System setup, maintenance, troubleshooting
 -Programming & Data Management: JavaScript, Python, MySQL (Intermediate)
 -Microsoft Office: PowerPoint, Microsoft Word, Excel/files/22533647/CourseCompletionCertificate.pdf)
@@ -15,6 +15,7 @@ I am currently a student with a keen interest in technology and innovation.
 
 ![OCI25AICFA](https://github.com/user-attachments/assets/4249af31-04d4-443a-a2b9-80fc93ec8975)
 
+[CourseCompletionCertificate.pdf](https://github.com/user-attachments/files/22533730/CourseCompletionCertificate.pdf)
 
 ## Passion
 I have a strong passion for **Artificial Intelligence** and **Robotics**, and I aspire to become a **Robotics Engineer**.
